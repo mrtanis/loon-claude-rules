@@ -1,0 +1,17 @@
+# Claude / Anthropic - Loon Remote Rule
+# Updated: 2026-10-13
+# Set the policy in Loon's [Remote Rule], not in this file.
+# Scope and sources: https://github.com/mrtanis/loon-claude-rules
+
+# Claude services and Anthropic API
+DOMAIN-SUFFIX,claude.ai
+DOMAIN-SUFFIX,anthropic.com
+DOMAIN-SUFFIX,claude.com
+DOMAIN-SUFFIX,claude.app
+
+# User content and MCP content
+DOMAIN-SUFFIX,claudeusercontent.com
+DOMAIN-SUFFIX,claudemcpcontent.com
+
+# Anthropic short links
+DOMAIN-SUFFIX,clau.de
