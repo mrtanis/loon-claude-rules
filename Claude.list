@@ -8,10 +8,13 @@ DOMAIN-SUFFIX,claude.ai
 DOMAIN-SUFFIX,anthropic.com
 DOMAIN-SUFFIX,claude.com
 DOMAIN-SUFFIX,claude.app
+DOMAIN-SUFFIX,claude.dev
 
 # User content and MCP content
 DOMAIN-SUFFIX,claudeusercontent.com
 DOMAIN-SUFFIX,claudemcpcontent.com
+# Anthropic-owned MCP domain (registrar RDAP verified)
+DOMAIN-SUFFIX,claudemcpclient.com
 
 # Anthropic short links
 DOMAIN-SUFFIX,clau.de
